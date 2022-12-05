@@ -1,0 +1,109 @@
+body {
+    background-color: rgb(12, 11, 11);
+}
+
+h1 {
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(211, 189, 189);
+    text-indent: 30px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+
+p {
+    color: rgb(255, 255, 255);
+    text-indent: 30px;
+    font-size: 18px;
+}
+
+i {
+    color: rgba(255, 255, 255, 0.829);
+    text-align: center;
+}
+
+.ES1 {
+    width: 1360px;
+    height: 80px;
+}
+
+header {
+    width: 100%;
+    top: 50px;
+    left: 0;
+    height: 60px;
+    background-color: black;
+}
+
+nav li {
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 170px;
+    color: rgb(135, 125, 125);
+}
+
+img {
+    display: inline-block;
+
+}
+
+.TERRA {
+    border: 2px solid rgb(255, 255, 255);
+    padding: 2px;
+    position: absolute;
+    top: 100px;
+    left: 10px;
+}
+
+.Inte {
+    position: absolute;
+    top: 510px;
+    left: 1250px;
+}
+#Inte { width: 80%;
+
+}
+
+.avatar {
+    position: absolute;
+    top: 80px;
+    left: 750px;
+}
+
+.Isaac { position: absolute;
+margin-left: center;
+}
+
+nav a {
+    text-transform: uppercase;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 5px;
+
+}
+
+nav a:hover {
+    border-color: purple;
+}
+
+.p1 { position: absolute;
+top: 600px;
+left: 600px;
+}
+
+.p2 { position: absolute;
+top: 600px;
+}
+
+.p3 { position: absolute;
+top: 600px;
+left: 1150px ;
+}
